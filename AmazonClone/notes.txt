@@ -1,0 +1,1 @@
+border :border-box -> use to apply border without occuping extra space
